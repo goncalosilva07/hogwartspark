@@ -1,0 +1,3 @@
+1,Simples,4,descrição
+2,Normal,14,descrição
+3,Prioritário,28,descrição

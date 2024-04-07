@@ -1,0 +1,8 @@
+JMDR,Expresso de Hogwarts,PLVC,ERSA,40.843470381632,-8.466910204062618,8,120,0,Aberto,A "Viagem no Expresso de Hogwarts" é uma jornada cativante através dos trilhos mágicos que conectam o mundo dos bruxos
+LGHF,Torneio Tribruxo,MLAH,HZCA,40.842817973071675,-8.46725214702668,13,150,1,Aberto,O "Torneio Tribruxo" é uma competição mágica repleta de desafios e emoções
+YKMB,Sala Comunal Gryffindor,DBSI,HZCA,40.842842614654124,-8.465557285410588,5,50,0,Aberto,Sala Comunal Gryffindor é um refúgio acolhedor e encantador onde os visitantes podem experimentar a atmosfera calorosa desta casa de Hogwarts
+OXAS,Varinhas Ollivander,PLVC,HZCA,40.84240308477108,-8.465930569301296,4,50,0,Aberto,A "Loja de Varinhas Ollivander" é uma atração que leva os visitantes a uma experiência única de escolha de varinhas
+WMQL,Aula de Voo,MLAH,LGYF,40.84190708534331,-8.466047921570231,14,150,2,Aberto,A "Aula de Voo" é uma experiência emocionante onde os visitantes podem montar em suas vassouras e aprender os fundamentos do voo
+NHMM,Desafio do Labirinto,TBXY,BQRS,40.84201658839025,-8.464558374424845,12,130,2,Aberto,O "Desafio do Labirinto" é uma aventura emocionante que leva os visitantes por um labirinto repleto de enigmas e obstáculos mágicos
+BJSR,Teste,ECEP,ERSA,1.0,1.0,1,1,0,Aberto,1
+DRGH,teste1,MLAH,ERSA,12.0,32.0,15,200,0,Aberto,teste

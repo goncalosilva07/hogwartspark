@@ -1,0 +1,7 @@
+MLAH,Aldeia dos Feiticeiros,40.843731709180155,-8.467719836723123,Sem descrição
+NGUA,Torre das Poções,40.844100276040415,-8.464513029601193,Sem descrição
+PLVC,Avenida das Varinhas,40.84283490102783,-8.465545043238084,Sem descrição
+DBSI,Praça de Hogwarts,40.84163417006581,-8.467007795852739,Sem descrição
+TBXY,Bosque Proibido,40.841875650222626,-8.464091526429954,Sem descrição
+ECEP,Teste,1.0,1.0,1
+VATL,Teste,56.0,15.0,teste

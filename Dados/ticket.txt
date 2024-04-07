@@ -1,0 +1,12 @@
+REF-GMJO,Gonçalo Silva,Portugal,1,6/1/2024,0:48,6/1/2024,4:48
+REF-RFHB,António,Algeria,3,6/1/2024,0:48,7/1/2024,14:48
+REF-AECP,Pedro,Zimbabwe,2,6/1/2024,0:48,6/1/2024,14:48
+REF-LAUB,Jonh,Georgia,2,6/1/2024,0:48,6/1/2024,14:48
+REF-KMGA,Pedro F,Andorra,1,6/1/2024,0:49,6/1/2024,4:49
+REF-QLWL,Traore,Angola,3,6/1/2024,0:49,7/1/2024,14:49
+REF-SQPO,Joana,Andorra,3,6/1/2024,0:49,7/1/2024,14:49
+REF-WFBT,Shakira,Colombia,3,6/1/2024,0:50,7/1/2024,14:50
+REF-NXYL,Cristiano Ronaldo,Portugal,1,6/1/2024,0:50,6/1/2024,4:50
+REF-ALUB,Pepe,Portugal,3,6/1/2024,0:51,7/1/2024,14:51
+REF-VFXG,Xin Jin,China,2,6/1/2024,0:51,6/1/2024,14:51
+REF-WCKF,teste,Afghanistan,1,6/1/2024,1:05,6/1/2024,5:05

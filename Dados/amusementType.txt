@@ -1,0 +1,6 @@
+ERSA,Montanha-russa,Uma emocionante atração de parque de diversões que consiste em carruagens ou veículos que percorrem trilhos sinuosos incluindo descidas íngremes subidas vertiginosas e curvas emocionantes
+RUPI,Carrosel,Uma clássica e encantadora atração onde assentos ou veículos são dispostos em uma plataforma circular que gira suavemente enquanto os participantes desfrutam do passeio
+UIAD,Roda-gigante,Uma grande estrutura em forma de roda que gira verticalmente oferecendo vistas panorâmicas espetaculares à medida que os visitantes são elevados em cabines ou gôndolas presas à roda
+LGYF,Carrinho de Choque,Uma atração interativa onde os participantes conduzem pequenos veículos elétricos em uma pista fechada colidindo de propósito com outros carros em uma experiência divertida e cheia de adrenalina
+BQRS,Casa Assombrada,Uma atração temática de terror muitas vezes encontrada em parques temáticos na qual os visitantes percorrem corredores escuros e cheios de surpresas assustadoras proporcionando uma experiência de diversão assustadora
+HZCA,Outro,Sem descrição

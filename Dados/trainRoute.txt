@@ -1,0 +1,4 @@
+QXDH,Expresso de Hogwarts,UGYI,XKPL,Aberto,10.0
+MSLG,Encantada de Hogsmeade,XKPL,YSVI,Aberto,20.0
+TDNH,Mistério em Beco Diagonal,AWFH,UGYI,Aberto,12.0
+BUCQ,teste,ABMS,SDFX,Fechado,100.0
